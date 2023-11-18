@@ -11,7 +11,6 @@
 - ⚡ Fun fact:喜欢看电影，喜欢玩游戏，喜欢听音乐，喜欢练书法，喜欢做运动。
 
 
-<img align="center" src="./images/github-contribution-grid-snake.svg" style="max-width: 90%;">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Lorey-76)
 [![Email](https://img.shields.io/badge/QQEmail-ea4335?style=flat-square&logo=Mail.Ru)](206218842@qq.com)
